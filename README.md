@@ -15,6 +15,10 @@
 
 ![Nomad client on WSL with Nvidia plugin](./images/nomad-client-on-wsl-with-nvidia-plugin.png)
 
+### DEMO Youtube
+
+[![Video Label](http://img.youtube.com/vi/xRzhUmobruw/0.jpg)](https://youtu.be/xRzhUmobruw)
+
 ## Install Nomad client on WSL(Ubuntu)
 
 ```powershell
